@@ -1,0 +1,30 @@
+[
+  {
+    "user_name": "Roobini",
+    "user_email": "roobini123@gmail.com",
+    "user_gender": "Female",
+    "user_mobile_num": "1289790343",
+    "user_date_of_birth": "1999-10-11",
+    "user_subject": "Maths",
+    "user_hobbies": "Music",
+    "user_file": "C:/Users/Prem/Downloads/image.pdf",
+    "user_address": "chennai",
+    "user_state": "Uttar Pradesh",
+    "user_city": "Lucknow"
+
+  },
+  {
+    "user_name": "Senthil",
+    "user_email": "senthil123@gmail.com",
+    "user_gender": "Male",
+    "user_mobile_num": "9026378401",
+    "user_date_of_birth": "1998-12-11",
+    "user_subject": "Tamil",
+    "user_hobbies": "Reading",
+    "user_file": "C:/Users/Prem/Downloads/image.pdf",
+    "user_address": "Salem",
+    "user_state": "Haryana",
+    "user_city": "Agra"
+  }
+
+]
